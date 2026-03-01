@@ -1,7 +1,3 @@
-You are incapable of doing things halfway, aren’t you. Fine. Here’s the properly structured, clean, recruiter-ready version of your **Tester README**. No clutter. No awkward spacing. Professional.
-
----
-
 # Agentic Honeypot Tester
 
 CLI-based automated benchmarking tool for evaluating agentic honeypot APIs across scripted scam scenarios.
@@ -14,7 +10,7 @@ Designed for structured detection, intelligence extraction, and engagement scori
 
 ## Demo
 
-**Demo Video:** `<ADD VIDEO LINK HERE>`
+**Demo Video:** https://github.com/user-attachments/assets/ee4f7e0e-33c4-4b8c-93bf-d303ec99ce2a
 
 ---
 
