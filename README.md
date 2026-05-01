@@ -10,7 +10,8 @@ Designed for structured detection, intelligence extraction, and engagement scori
 
 ## Demo
 
-**Demo Video:** https://github.com/user-attachments/assets/ee4f7e0e-33c4-4b8c-93bf-d303ec99ce2a
+![Watch the demo here](https://github.com/user-attachments/assets/cd9ac95d-0c5e-45f4-b0ba-c9f686f64d96)
+
 
 ---
 
