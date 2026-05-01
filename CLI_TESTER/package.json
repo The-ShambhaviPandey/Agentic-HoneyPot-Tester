@@ -1,0 +1,19 @@
+{
+  "name": "honeytrap-tester",
+  "version": "2.0.0",
+  "description": "Engineer-grade CLI tester for Scam Honeypot API",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "node tester.js",
+    "test:bank": "node tester.js --scenario bank_fraud",
+    "test:upi": "node tester.js --scenario upi_fraud",
+    "test:phishing": "node tester.js --scenario phishing_link",
+    "test:verbose": "node tester.js --verbose"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
