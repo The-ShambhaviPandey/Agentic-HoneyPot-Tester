@@ -10,7 +10,7 @@ Designed for structured detection, intelligence extraction, and engagement scori
 
 ## Demo
 
-![Watch the demo here](https://github.com/user-attachments/assets/cd9ac95d-0c5e-45f4-b0ba-c9f686f64d96)
+[Watch the demo here](https://www.veed.io/view/86d20777-f345-418b-b7bb-dcec46f84681?source=landingPage&panel=share)
 
 ---
 
