@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: honeytrap-web-tester
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ALLOWED_ORIGIN
+        value: "*"
+    healthCheckPath: /api/status
