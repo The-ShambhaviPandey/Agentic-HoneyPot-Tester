@@ -1,4 +1,4 @@
-# Agentic Honeypot Tester
+# Honeypot CLI Tester
 
 CLI-based automated benchmarking tool for evaluating agentic honeypot APIs across scripted scam scenarios.
 
@@ -11,7 +11,6 @@ Designed for structured detection, intelligence extraction, and engagement scori
 ## Demo
 
 ![Watch the demo here](https://github.com/user-attachments/assets/cd9ac95d-0c5e-45f4-b0ba-c9f686f64d96)
-
 
 ---
 
