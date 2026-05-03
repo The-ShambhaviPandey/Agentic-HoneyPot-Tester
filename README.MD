@@ -12,7 +12,9 @@ Comprehensive automated benchmarking suite for evaluating agentic honeypot APIs 
 
 ![Watch the cli tester demo here](https://github.com/user-attachments/assets/cd9ac95d-0c5e-45f4-b0ba-c9f686f64d96)
 
-[Watch the web tester demo here](https://www.veed.io/view/86d20777-f345-418b-b7bb-dcec46f84681?source=landingPage&panel=share)
+[Watch the web tester demo here](https://www.veed.io/view/b89d7f3a-a4d9-4fc8-a495-ca87b5dc672c?panel=share)
+
+
 
 ---
 
